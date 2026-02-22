@@ -4,7 +4,6 @@
 > *2 billion people receive their health advice on WhatsApp before they ever see a doctor. MedGuard fights back.*
 
 
-
 ---
 
 ## 📖 Overview
