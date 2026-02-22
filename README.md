@@ -151,13 +151,5 @@ MedGuard is built for real-world field deployment:
 
 MedGuard is an AI triage support tool. It does **not** replace qualified medical professionals. Always consult a doctor for medical decisions.
 
----
 
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE) for details.
-
----
-
-*Built for the MedGemma Impact Challenge — Kaggle 2026*
 *Powered by Google MedGemma 4B-IT*
