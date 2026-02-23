@@ -102,17 +102,6 @@ Open `MedGuard_Colab.ipynb` — installs, loads, and launches via ngrok automati
 
 ---
 
-## 📁 Project Structure
-```
-medguard/
-│
-├── medguard_core.py      # Core inference engine
-├── app.py                # Streamlit UI
-├── MedGuard_Colab.ipynb  # Colab notebook (full pipeline)
-└── README.md
-```
-
----
 
 ## 💡 Usage
 ```python
